@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-29",
+  "status": "344课初稿齐全，终审未完成；自动任务暂停",
+  "files": [
+    {
+      "file": "01_格局笔记视频逐课蒸馏.md",
+      "sha256": "27d22f69a4e83b09cd5e6f3bda93324e5d8e6bcb38b9cccc4ff77c1a7540558c"
+    },
+    {
+      "file": "02_格局笔记视频_取用与七类格局.md",
+      "sha256": "24c4e1cdd70c7fdd24505f6b5667496999a0f1ad88e8a9e630295fa119e28f20"
+    },
+    {
+      "file": "03_八字分析调用流程_阶段版.md",
+      "sha256": "89dc3f485fd216dd7e8fbfa3ee8bf8d3ece1f9ac4bb342e761b04d99f6bc2a21"
+    },
+    {
+      "file": "04_实操班逐课蒸馏_基础篇.md",
+      "sha256": "ac28d9ec08a92ed75354010b87c5a32b5035d10036c13ed7708d14c6eee079b5"
+    },
+    {
+      "file": "07_案例精解逐课蒸馏.md",
+      "sha256": "79d2da88c589ff58c6f85d85d15af3112db2126108051f7e85738958eea5c8fa"
+    },
+    {
+      "file": "08_规则应用卡_从命局到应期.md",
+      "sha256": "992a797ccd90f7b2952d3fd394fc029f0e847be8eec93a046897ad6aec99f7ed"
+    },
+    {
+      "file": "09_盲派独门绝技逐课蒸馏.md",
+      "sha256": "3009709358ffb2176b8393e4547ee2db111ba33c68c1bbdda455acaa7fbb1bba"
+    },
+    {
+      "file": "10_高级内训逐课蒸馏.md",
+      "sha256": "1c1cca0265658ce900f4ff9c9abaa29f595e694ee08b48215c18f3cff0240d4c"
+    },
+    {
+      "file": "12_实战内训直播逐课蒸馏.md",
+      "sha256": "23dfd213342e283ee18d8e20babfe3d1655ebcface9a8f4d763b4ab03207d5ea"
+    },
+    {
+      "file": "13_独门精华直播逐课蒸馏.md",
+      "sha256": "b23b6c0a99a96dac608f4436820f4f7aa8101816e1fcc18b4cd08ef6e9749455"
+    },
+    {
+      "file": "14_全库终审台账.md",
+      "sha256": "f1633367ac9a96602368cf7e2b8e335277a7a51d95dadf4430b7301d26c7cad6"
+    },
+    {
+      "file": "README.md",
+      "sha256": "05122786e73b2200fb49d8b045c81463c3411502a5a565c6eb79313feb566a05"
+    },
+    {
+      "file": "八字素材覆盖清单.csv",
+      "sha256": "ae145513552d5c343f6432a18c03926fae3bcd407caf23a299992917e408dc20"
+    },
+    {
+      "file": "来源位置核对.csv",
+      "sha256": "9027386a60396e935816180b289f3f453919c590f6bbd8220930802bd92d01cd"
+    }
+  ]
+}
